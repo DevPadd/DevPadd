@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ### Projects
+- 🔭 I’m currently working on **Projects**
 - 🌱 I’m currently learning TailwindCSS
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with Node.js and NPM
