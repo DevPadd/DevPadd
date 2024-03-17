@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Dio, also known as DevPadd in github!
+
 - 🔭 I’m currently working on **Projects**
 - 🌱 I’m currently learning TailwindCSS
 - 👯 I’m looking to collaborate on github
