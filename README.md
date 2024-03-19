@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-My name is Dio, also known as DevPadd in github!
+## My name is Dio, also known as DevPadd in github
 
 - 🔭 I’m currently working on **Projects**
-- 🌱 I’m currently learning TailwindCSS
-- 👯 I’m looking to collaborate on github
-- 🤔 I’m looking for help with Node.js and NPM
-- 💬 Ask me about HTML, CSS, JS
-- ⚡ Fun fact: Still cant center a div lmaoo
+- 🌱 I’m currently learning **TailwindCSS** and **Node.js**
+- 👯 I’m looking to collaborate on **Github**
+- 🤔 I’m looking for help with *Node.js** and  **NPM**
+- 💬 Ask me about **HTML, CSS, JS**
+
+
 <!--
 **DevPadd/DevPadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
