@@ -1,11 +1,11 @@
-## Hi there 👋
+### Hi there 👋
 
-### My name is Dio, also known as DevPadd in github
+# My name is Dio, also known as DevPadd in github
 
 - 🔭 I’m currently working on **Projects**
 - 🌱 I’m currently learning **TailwindCSS** and **Node.js**
 - 👯 I’m looking to collaborate on **Github**
-- 🤔 I’m looking for help with *Node.js** and  **NPM**
+- 🤔 I’m looking for help with *Node.js* and  **NPM**
 - 💬 Ask me about **HTML, CSS, JS**
 
 
