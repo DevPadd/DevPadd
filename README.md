@@ -3,6 +3,7 @@
 - 😄 Pronouns: **He/Him**
 - 🔭 currently working on **front end stuff**
 - 🌱 currently learning **node.js**
+- 👯 I’m looking to collaborate on **open source projects**
 -  ~🤯 still cant center a goddamn div~
 
 <p align="center">I speak:</p>
