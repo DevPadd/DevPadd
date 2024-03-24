@@ -2,19 +2,24 @@
 
 ### ✨ My name is Dio, also known as DevPadd in github ✨
 
+- 😄 Pronouns: **He/Him**
 - 🔭 currently working on **front end stuff**
 - 🌱 currently learning **Tailwindcss**
-- 👯 looking to collaborate on **Github**
-- 🤔 looking for help with **Node.js**
-- 💬 Ask me about **HTML, CSS, JS**
-- 📫 How to reach me: dionaufalvi@gmail.com
-- 😄 Pronouns: **He/Him**
 
+<p>I speak:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
   </a>
 </p>
+
+<p>Tools i use:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
+  </a>
+</p>
+
 
 
 <!--
