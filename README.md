@@ -6,14 +6,14 @@
 - 🔭 currently working on **front end stuff**
 - 🌱 currently learning **Tailwindcss**
 
-<p>I speak:</p>
+<h1 align="center">I speak:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
   </a>
 </p>
 
-<p>Tools i use:</p>
+<h1 align="center">Tools i use:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
