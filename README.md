@@ -1,22 +1,27 @@
-### Hello there 👋🧔‍♂️
-
-### ✨ My name is Dio, also known as DevPadd in github ✨
+<p align="center"><img  src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/200.gif?cid=6c09b952jgz46ygo6iv60acsld85g4l80lfrvqjgxws4blrn&ep=v1_internal_gif_by_id&rid=200.gif&ct=g" /></p> 
 
 - 😄 Pronouns: **He/Him**
 - 🔭 currently working on **front end stuff**
-- 🌱 currently learning **Tailwindcss**
+- 🌱 currently learning **node.js**
+-  ~🤯 still cant center a goddamn div~
 
-<h1 align="center">I speak:</h1>
+<p align="center">I speak:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
   </a>
 </p>
 
-<h1 align="center">Tools i use:</h1>
+<p align="center">Tools i use:</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
+  </a>
+</p>
+<p align="center">Drop me a line on:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,twitter,instagram" />
   </a>
 </p>
 
