@@ -8,14 +8,12 @@
 
 <p align="center">I speak:</p>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
   </a>
 </p>
 
-<p align="center">Tools i use:</p>
+<p align="center">Tools I use:</p>
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
   </a>
 </p>
