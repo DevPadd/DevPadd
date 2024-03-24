@@ -2,13 +2,13 @@
 
 ### ✨ My name is Dio, also known as DevPadd in github ✨
 
-- 🔭 currently working on *front end stuff*
-- 🌱 currently learning *Tailwindcss*
-- 👯 looking to collaborate on *Github*
-- 🤔 looking for help with *Node.js*
-- 💬 Ask me about *HTML, CSS, JS*
+- 🔭 currently working on **front end stuff**
+- 🌱 currently learning **Tailwindcss**
+- 👯 looking to collaborate on **Github**
+- 🤔 looking for help with **Node.js**
+- 💬 Ask me about **HTML, CSS, JS**
 - 📫 How to reach me: dionaufalvi@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: **He/Him**
 
 
 <!--
