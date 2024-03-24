@@ -10,6 +10,12 @@
 - 📫 How to reach me: dionaufalvi@gmail.com
 - 😄 Pronouns: **He/Him**
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
+  </a>
+</p>
+
 
 <!--
 **DevPadd/DevPadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
