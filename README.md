@@ -14,7 +14,7 @@
 
 <p align="center">Tools I use:</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,npm" />
   </a>
 </p>
 <p align="center">Drop me a line on:</p>
