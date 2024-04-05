@@ -8,7 +8,7 @@
 
 <p align="center">I speak:</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,tailwind,bootstrap,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,express,next" />
   </a>
 </p>
 
