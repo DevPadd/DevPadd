@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: **He/Him**
 - 🔭 currently working on **front end stuff**
-- 🌱 currently learning **node.js**
+- 🌱 currently learning **node.js** (and tailwind)
 - 👯 I’m looking to collaborate on **open source projects**
 -  ~🤯 still cant center a goddamn div~
 
@@ -20,7 +20,7 @@
 <p align="center">Drop me a line on:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,twitter,instagram" />
+    <img src="https://skillicons.dev/icons?i=discord,x,instagram" />
   </a>
 </p>
 
