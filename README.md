@@ -20,7 +20,7 @@
 <p align="center">Drop me a line on:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,x,instagram" />
+    <img src="https://skillicons.dev/icons?i=discord,twitter,instagram" />
   </a>
 </p>
 
