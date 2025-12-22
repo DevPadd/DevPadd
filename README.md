@@ -1,10 +1,10 @@
 <p align="center"><img  src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/200.gif?cid=6c09b952jgz46ygo6iv60acsld85g4l80lfrvqjgxws4blrn&ep=v1_internal_gif_by_id&rid=200.gif&ct=g" /></p> 
 
 - 😄 Pronouns: **He/Him**
-- 🔭 currently working on **front end stuff**
-- 🌱 currently learning **node.js** (and tailwind)
+- 🔭 want to learn **AI and ML**
+- 🌱 currently learning **python**
 - 👯 I’m looking to collaborate on **open source projects**
--  ~🤯 still cant center a goddamn div~
+-  ~🤯 still can't center a goddamn div~
 
 <p align="center">I speak:</p>
 <p align="center">
@@ -14,13 +14,13 @@
 
 <p align="center">Tools I use:</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,npm" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,npm,pip" />
   </a>
 </p>
 <p align="center">Drop me a line on:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,twitter,instagram" />
+    <img src="https://skillicons.dev/icons?i=discord,x,instagram" />
   </a>
 </p>
 
