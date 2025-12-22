@@ -14,13 +14,13 @@
 
 <p align="center">Tools I use:</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,npm,pip" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,npm" />
   </a>
 </p>
 <p align="center">Drop me a line on:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,x,instagram" />
+    <img src="https://skillicons.dev/icons?i=discord,instagram" />
   </a>
 </p>
 
