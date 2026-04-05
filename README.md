@@ -44,20 +44,12 @@ Hey! I'm **Dio** — a high schooler with a deep passion for software and system
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevPadd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPadd&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
