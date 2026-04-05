@@ -2,7 +2,7 @@
 ## 👋 About Me
 
   
-Hey! I'm **Dio**, a high schooler with a deep passion for computer science. I love the challenge of building things that work: from web interfaces to neural networks to optimized algorithms under time pressure.
+Hey there! I'm **Dio**, a high schooler with a deep passion for computer science. I love the challenge of building things that work: from web interfaces to neural networks to optimized algorithms under time pressure.
 
 - 🏫 Currently in **11th grade high school**
 - 🌐 Crafting **web experiences** that feel good to look and use
