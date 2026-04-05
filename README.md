@@ -1,38 +1,21 @@
-<div align="center">
-
-```
-██████╗ ██╗ ██████╗
-██╔══██╗██║██╔═══██╗
-██║  ██║██║██║   ██║
-██║  ██║██║██║   ██║
-██████╔╝██║╚██████╔╝
-╚═════╝ ╚═╝ ╚═════╝
-```
-
-# Dio Naufal Vianto
-
-**`High Schooler building at the intersection of Web · AI · Competitive Programming`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%8C%90;AI+%2F+ML+%2F+Neural+Networks+%F0%9F%A4%96;Competitive+Programmer+%E2%9A%94%EF%B8%8F;Always+learning+something+new...)](https://git.io/typing-svg)
-
-</div>
-
----
 
 ## 👋 About Me
 
-Hey! I'm **Dio** — a high schooler with a deep passion for software and systems. I love the challenge of building things that work: from slick web interfaces to neural networks to optimized algorithms under time pressure.
+  
+Hey! I'm **Dio**, a high schooler with a deep passion for computer science. I love the challenge of building things that work: from web interfaces to neural networks to optimized algorithms under time pressure.
 
-- 🏫 Currently in **high school**, building real things between classes
-- 🌐 Crafting **web experiences** that feel good to use
-- 🤖 Exploring **AI/ML/Neural Networks** — from theory to implementation
+- 🏫 Currently in **11th grade high school**
+- 🌐 Crafting **web experiences** that feel good to look and use
+- 🤖 Exploring **AI/ML/Neural Networks**
 - ⚔️ Competing in **Competitive Programming** to sharpen problem-solving
-- 📍 Based in **Indonesia**
+- 📍 Based in **Jawa Barat, Indonesia**
 
----
 
+
+  
 ## 🛠️ Tech Stack
 
+  
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -46,23 +29,17 @@ Hey! I'm **Dio** — a high schooler with a deep passion for software and system
 ### AI / ML
 ![Pytorch](https://img.shields.io/badge/pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
 
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevPadd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
----
 
 
-```
 
----
+
 
 ## 🚀 Currently
 
@@ -70,18 +47,10 @@ Hey! I'm **Dio** — a high schooler with a deep passion for software and system
 - 🔨 Building personal passion projects to solve real problems
 - 🏆 Practicing **algorithmic problem solving** for competitions (OSN)
 
----
+
 
 ## 📬 Get In Touch
 
-<div align="center">
 
-Linkedin:
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevPadd&color=00d9ff&style=flat-square&label=Profile+Views" />
-</div>
+Linkedin: https://www.linkedin.com/in/dio-naufal-vianto-b134443a8/
+Instagram: https://www.instagram.com/dionaufal_v
