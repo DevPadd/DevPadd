@@ -54,14 +54,14 @@ Hey! I'm **Dio** — a high schooler with a deep passion for software and system
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dionaufal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionaufal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevPadd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPadd&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dionaufal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevPadd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -75,9 +75,8 @@ Hey! I'm **Dio** — a high schooler with a deep passion for software and system
 ## 🚀 Currently
 
 - 📚 Deepening my understanding of **neural network architectures**
-- 🔨 Building personal projects to solve real problems
-- 🏆 Practicing **algorithmic problem solving** for competitions
-- 🌱 Always exploring what's next in tech
+- 🔨 Building personal passion projects to solve real problems
+- 🏆 Practicing **algorithmic problem solving** for competitions (OSN)
 
 ---
 
@@ -85,11 +84,12 @@ Hey! I'm **Dio** — a high schooler with a deep passion for software and system
 
 <div align="center">
 
+Linkedin:
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dionaufal&color=00d9ff&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=DevPadd&color=00d9ff&style=flat-square&label=Profile+Views" />
 </div>
