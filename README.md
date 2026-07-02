@@ -6,8 +6,7 @@ Hey there! I'm **Dio**, a high schooler with a deep passion for computer science
 
 - 🏫 Currently in **11th grade high school**
 - 🌐 Crafting **web experiences** that feel good to look and use
-- 🤖 Exploring **AI/ML/Neural Networks**
-- ⚔️ Competing in **Competitive Programming** to sharpen problem-solving
+- ⚔️ looking forward participating in **Competitive Programming** and **hackathons** to sharpen problem-solving
 - 📍 Based in **Jawa Barat, Indonesia**
 
 
@@ -20,9 +19,8 @@ Hey there! I'm **Dio**, a high schooler with a deep passion for computer science
 
 ## 🚀 Currently
 
-- 📚 Deepening my understanding of **neural network architectures**
+- 📚 Deepening my understanding of **react**
 - 🔨 Building personal passion projects to solve real problems
-- 🏆 Practicing **algorithmic problem solving** for competitions (OSN)
 
 
 
