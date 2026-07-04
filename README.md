@@ -2,7 +2,7 @@
 ### 👋 About Me
 
   
-Hey there! I'm **Dio**, a high schooler with a deep passion for computer science. I love the challenge of building things that work: **mainly web interfaces**. I'm looking forward to **contributing to open source and participating in competitions such as hackathons and competitive programming**.
+Hey there! I'm **Dio**, a high schooler with a deep passion for computer science. I love the challenge of building things that work: **mainly web interfaces**. I'm looking forward to **contributing to open source and participating in competitions such as hackathon and competitive programming**.
 
 
 
