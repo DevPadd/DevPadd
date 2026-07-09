@@ -14,7 +14,7 @@ Hey there! I'm **Dio**, a high schooler with a deep passion for computer science
 
 ### 🚀 Currently
 
-- 📚 Deepening my understanding of **react** and **tailwind**
+- 📚 Learning the **MERN** stack
 - 🍚 Ricing hyprland
 
 
