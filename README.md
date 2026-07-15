@@ -15,7 +15,9 @@ Hey there! I'm **Dio**, a high schooler with a deep passion for computer science
 ### 🚀 Currently
 
 - 📚 Learning the **MERN** stack
+- 🤖 Learning to utilize AI agents for building and shipping apps
 - 🍚 Ricing hyprland
+  
 
 
 
